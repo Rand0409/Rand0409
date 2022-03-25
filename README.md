@@ -2,7 +2,7 @@ Hi, this Haoran.
 
 I work in drone/sUAV programming at a drone company in Brooklyn,NY.
 
-I did some research in FEA, control & material research on Soft Robotics when I was a master students @ NYU MERIIT, and co-authored a paper.
+I did some research in FEA, control & material research on Soft Robotics when I was a master students @ NYU MERIIT, and co-authored a paper on IROS/RA-L.
 
 Currently learning ROS, Robot(Drone) Perception, CV, ML.
 
