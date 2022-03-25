@@ -8,7 +8,6 @@ Currently learning ROS, Robot(Drone) Perception, CV, ML.
 
 Rookie C++ Python coder.
 
-我好菜
 
 <!---
 Rand0409/Rand0409 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
