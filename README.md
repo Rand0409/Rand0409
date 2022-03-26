@@ -1,4 +1,4 @@
-Hi, this Haoran.
+Hi, this is Haoran.
 
 I work in drone/sUAV programming at a drone company in Brooklyn,NY.
 
